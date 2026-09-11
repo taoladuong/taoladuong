@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm taoladuong
 
-<!--
-**taoladuong/taoladuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a regular person who likes building things with code.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and experimenting with software development
+- Interested in backend, scripting, and small tools that actually do something useful
+- Still figuring things out one project at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- **Languages:** Python, JavaScript
+- **Tools:** Git, Linux, VS Code
+- **Others:** HTML/CSS, basic Node.js
+
+### Projects
+Nothing worth showing off yet — mostly personal experiments and learning repos.
+More coming when they're ready.
+
+---
+Feel free to check out my repos or drop a message if you want to chat about code.
